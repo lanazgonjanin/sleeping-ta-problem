@@ -17,8 +17,6 @@ The program models a classic concurrency problem involving one teaching assistan
 
 ## Operating Systems Concepts
 
-This project demonstrates:
-
 * **Multithreading:** Creates and coordinates multiple POSIX threads.
 * **Semaphores:** Coordinates communication between students and the TA.
 * **Mutex Locks:** Protects shared resources from concurrent access.
